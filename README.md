@@ -1,6 +1,6 @@
 👋  &nbsp; Hi, I’m @almmello
 
-👀  &nbsp; I’m interested in Full Stack Development
+👀  &nbsp; I’m interested in Full Stack Web Development
 
 🌱  &nbsp; I’m currently learning Python, Flask, Postgres
 
